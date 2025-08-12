@@ -1,0 +1,3 @@
+
+sacct --format="UID, GID, JobIDRaw, Group, Account, JobName, TimelimitRaw, Submit, Start, End, State, ExitCode, ReservationId, Reservation, Priority, Eligible, Constraints, SystemCPU, CPUTimeRAW, ElapsedRaw, Layout, NTasks, QOSREQ, QOS, Restarts, WorkDir, ConsumedEnergyRaw, FailedNode, AveDiskRead, AveDiskWrite, MaxDiskRead, MaxDiskWrite, Partition, Reason, Suspended, AllocNodes, AveRSS, MaxRSS, DerivedExitCode, AveVMSize, MaxVMSize, ReqMem, ReqNodes, NNodes, Planned, PlannedCPURAW, NCPUS, UserCPU, ReqCPUS, TotalCPU, TRESUsageInTot, TRESUsageOutTot, ReqTRES, AllocTRES, TRESUsageInMax, TRESUsageOutMax, Flags, Comment, SystemComment, AdminComment" -a -P -S2025-07-29T17:07:00 -E2025-07-30T09:31:00 > jobsdata.txt
+

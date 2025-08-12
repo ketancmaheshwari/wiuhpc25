@@ -1,0 +1,118 @@
+Unexpected argument: --daemon, -p, /tmp/batsim-src-stable/platforms/cluster512.xml, -w, /home/er3/ORNL-Work/Simulators/batsim/output_workload.json, -e, /home/er3/ORNL-Work/Simulators/batsim/easy_bf_results/out
+A tool to simulate (via SimGrid) the behaviour of scheduling algorithms.
+
+Usage:
+  batsim -p <platform_file> [-w <workload_file>...]
+                            [-W <workflow_file>...]
+                            [--WS (<cut_workflow_file> <start_time>)...]
+                            [--sg-cfg <opt_name:opt_value>...]
+                            [--sg-log <log_option>...]
+                            [-r <hosts_roles_map>...]
+                            [--events <events_file>...]
+                            [--sched-cfg <cfg_str> | --sched-cfg-file <cfg_file>]
+                            [options]
+  batsim --help
+  batsim --version
+  batsim --simgrid-version
+
+Input options:
+  -p, --platform <platform_file>     The SimGrid platform to simulate.
+  -w, --workload <workload_file>     The workload JSON files to simulate.
+  -W, --workflow <workflow_file>     The workflow XML files to simulate.
+  --WS, --workflow-start (<cut_workflow_file> <start_time>)  The workflow XML
+                                     files to simulate, with the time at which
+                                     they should be started.
+  --events <events_file>             The files containing external events to simulate.
+
+Most common options:
+  -m, --master-host <name>           The name of the host in <platform_file>
+                                     which will be used as the RJMS management
+                                     host (thus NOT used to compute jobs)
+                                     [default: master_host].
+  -r, --add-role-to-hosts <hosts_role_map>  Add a `role` property to the specify host(s).
+                                     The <hosts-roles-map> is formated as <hosts>:<role>
+                                     The <hosts> should be formated as follow:
+                                     hostname1,hostname2,..
+                                     Supported roles are: master, storage, compute_node
+                                     By default, no role means 'compute_node'
+                                     Example: -r host8:master -r host1,host2:storage
+  -E, --energy                       Enables the SimGrid energy plugin and
+                                     outputs energy-related files.
+
+Execution context options:
+  -s, --socket-endpoint <endpoint>   The Decision process socket endpoint
+                                     Decision process [default: tcp://localhost:28000].
+  --enable-redis                     Enables Redis to communicate with the scheduler.
+                                     Other redis options are ignored if this option is not set.
+                                     Please refer to Batsim's documentation for more information.
+  --redis-hostname <redis_host>      The Redis server hostname. Ignored if --enable-redis is not set.
+                                     [default: 127.0.0.1]
+  --redis-port <redis_port>          The Redis server port. Ignored if --enable-redis is not set.
+                                     [default: 6379]
+  --redis-prefix <prefix>            The Redis prefix. Ignored if --enable-redis is not set.
+                                     [default: default]
+
+Output options:
+  -e, --export <prefix>              The export filename prefix used to generate
+                                     simulation output [default: out].
+  --disable-schedule-tracing         Disables the Pajé schedule outputting.
+  --disable-machine-state-tracing    Disables the machine state outputting.
+
+Platform size limit options:
+  --mmax <nb>                        Limits the number of machines to <nb>.
+                                     0 means no limit [default: 0].
+  --mmax-workload                    If set, limits the number of machines to
+                                     the 'nb_res' field of the input workloads.
+                                     If several workloads are used, the maximum
+                                     of these fields is kept.
+Job-related options:
+  --forward-profiles-on-submission   Attaches the job profile to the job information
+                                     when the scheduler is notified about a job submission.
+                                     [default: false]
+  --enable-dynamic-jobs              Enables dynamic registration of jobs and profiles from the scheduler.
+                                     Please refer to Batsim's documentation for more information.
+                                     [default: false]
+  --acknowledge-dynamic-jobs         Makes Batsim send a JOB_SUBMITTED back to the scheduler when
+                                     Batsim receives a REGISTER_JOB.
+                                     [default: false]
+  --enable-profile-reuse             Enable dynamic jobs to reuse profiles of other jobs.
+                                     Without this options, such profiles would be
+                                     garbage collected.
+                                     The option --enable-dynamic-jobs must be set for this option to work.
+                                     [default: false]
+
+Verbosity options:
+  -v, --verbosity <verbosity_level>  Sets the Batsim verbosity level. Available
+                                     values: quiet, network-only, information,
+                                     debug [default: information].
+  -q, --quiet                        Shortcut for --verbosity quiet
+
+Workflow options:
+  --workflow-jobs-limit <job_limit>  Limits the number of possible concurrent
+                                     jobs for workflows. 0 means no limit
+                                     [default: 0].
+  --ignore-beyond-last-workflow      Ignores workload jobs that occur after all
+                                     workflows have completed.
+
+Other options:
+  --dump-execution-context           Does not run the actual simulation but dumps the execution
+                                     context on stdout (formatted as a JSON object).
+  --enable-compute-sharing           Enables compute resource sharing:
+                                     One compute resource may be used by several jobs at the same time.
+  --disable-storage-sharing          Disables storage resource sharing:
+                                     One storage resource may be used by several jobs at the same time.
+  --no-sched                         If set, the jobs in the workloads are
+                                     computed one by one, one after the other,
+                                     without scheduler nor Redis.
+  --sched-cfg <cfg_str>              Sets the scheduler configuration string.
+                                     This is forwarded to the scheduler in the first protocol message.
+  --sched-cfg-file <cfg_file>        Same as --sched-cfg, but value is read from a file instead.
+  --sg-cfg <opt_name:opt_value>      Forwards a given option_name:option_value to SimGrid.
+                                     Refer to SimGrid configuring documentation for more information.
+  --sg-log <log_option>              Forwards a given logging option to SimGrid.
+                                     Refer to SimGrid simulation logging documentation for more information.
+  --forward-unknown-events           Enables the forwarding to the scheduler of external events that
+                                     are unknown to Batsim. Ignored if there were no event inputs with --events.
+                                     [default: false]
+  -h, --help                         Shows this help.
+

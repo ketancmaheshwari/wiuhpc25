@@ -1,0 +1,82 @@
+Average Stretch per Scheduler:
+                     mean    median       std  count
+scheduler                                           
+conservative_bf  1.426373  1.099041  0.796369   1000
+easy_bf          1.426373  1.099041  0.796369   1000
+easy_bf_fast     1.426373  1.099041  0.796369   1000
+fcfs             1.426373  1.099041  0.796369   1000
+fcfs_fast        1.426373  1.099041  0.796369   1000
+filler           1.426373  1.099041  0.796369   1000
+
+Pairwise Mann-Whitney U tests for Stretch:
+
+conservative_bf vs easy_bf: U=500000.000, p=1.0000
+conservative_bf vs easy_bf_fast: U=500000.000, p=1.0000
+conservative_bf vs filler: U=500000.000, p=1.0000
+conservative_bf vs fcfs: U=500000.000, p=1.0000
+conservative_bf vs fcfs_fast: U=500000.000, p=1.0000
+easy_bf vs easy_bf_fast: U=500000.000, p=1.0000
+easy_bf vs filler: U=500000.000, p=1.0000
+easy_bf vs fcfs: U=500000.000, p=1.0000
+easy_bf vs fcfs_fast: U=500000.000, p=1.0000
+easy_bf_fast vs filler: U=500000.000, p=1.0000
+easy_bf_fast vs fcfs: U=500000.000, p=1.0000
+easy_bf_fast vs fcfs_fast: U=500000.000, p=1.0000
+filler vs fcfs: U=500000.000, p=1.0000
+filler vs fcfs_fast: U=500000.000, p=1.0000
+fcfs vs fcfs_fast: U=500000.000, p=1.0000
+
+Average Waiting Time per Scheduler:
+                     mean  median      std  count
+scheduler                                        
+conservative_bf  0.009999  0.0084  0.00691   1000
+easy_bf          0.009999  0.0084  0.00691   1000
+easy_bf_fast     0.009999  0.0084  0.00691   1000
+fcfs             0.009999  0.0084  0.00691   1000
+fcfs_fast        0.009999  0.0084  0.00691   1000
+filler           0.009999  0.0084  0.00691   1000
+
+Pairwise Mann-Whitney U tests for Waiting Time:
+
+conservative_bf vs easy_bf: U=500000.000, p=1.0000
+conservative_bf vs easy_bf_fast: U=500000.000, p=1.0000
+conservative_bf vs filler: U=500000.000, p=1.0000
+conservative_bf vs fcfs: U=500000.000, p=1.0000
+conservative_bf vs fcfs_fast: U=500000.000, p=1.0000
+easy_bf vs easy_bf_fast: U=500000.000, p=1.0000
+easy_bf vs filler: U=500000.000, p=1.0000
+easy_bf vs fcfs: U=500000.000, p=1.0000
+easy_bf vs fcfs_fast: U=500000.000, p=1.0000
+easy_bf_fast vs filler: U=500000.000, p=1.0000
+easy_bf_fast vs fcfs: U=500000.000, p=1.0000
+easy_bf_fast vs fcfs_fast: U=500000.000, p=1.0000
+filler vs fcfs: U=500000.000, p=1.0000
+filler vs fcfs_fast: U=500000.000, p=1.0000
+fcfs vs fcfs_fast: U=500000.000, p=1.0000
+Average Machine Utilization per Scheduler:
+                     mean   median       std  count
+scheduler                                          
+conservative_bf  0.615148  0.71875  0.240844   2000
+easy_bf          0.615148  0.71875  0.240844   2000
+easy_bf_fast     0.615148  0.71875  0.240844   2000
+fcfs             0.615148  0.71875  0.240844   2000
+fcfs_fast        0.615148  0.71875  0.240844   2000
+filler           0.615148  0.71875  0.240844   2000
+
+Pairwise Mann-Whitney U tests for Machine Utilization:
+
+conservative_bf vs easy_bf: U=2000000.000, p=1.0000
+conservative_bf vs easy_bf_fast: U=2000000.000, p=1.0000
+conservative_bf vs filler: U=2000000.000, p=1.0000
+conservative_bf vs fcfs: U=2000000.000, p=1.0000
+conservative_bf vs fcfs_fast: U=2000000.000, p=1.0000
+easy_bf vs easy_bf_fast: U=2000000.000, p=1.0000
+easy_bf vs filler: U=2000000.000, p=1.0000
+easy_bf vs fcfs: U=2000000.000, p=1.0000
+easy_bf vs fcfs_fast: U=2000000.000, p=1.0000
+easy_bf_fast vs filler: U=2000000.000, p=1.0000
+easy_bf_fast vs fcfs: U=2000000.000, p=1.0000
+easy_bf_fast vs fcfs_fast: U=2000000.000, p=1.0000
+filler vs fcfs: U=2000000.000, p=1.0000
+filler vs fcfs_fast: U=2000000.000, p=1.0000
+fcfs vs fcfs_fast: U=2000000.000, p=1.0000

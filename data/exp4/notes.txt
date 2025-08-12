@@ -1,0 +1,5 @@
+Normal baseline campaign
+20 users 20 jobs
+10 nodes max
+10 minutes max with timeout possible
+

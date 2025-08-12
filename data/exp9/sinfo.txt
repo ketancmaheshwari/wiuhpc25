@@ -1,0 +1,1052 @@
+1 20 reserved 
+2 1 reserved 19 allocated 
+3 1 reserved 19 allocated 
+4 1 reserved 19 allocated 
+5 1 reserved 19 allocated 
+6 1 reserved 19 allocated 
+7 1 reserved 19 allocated 
+8 4 reserved 16 allocated 
+9 3 reserved 17 allocated 
+10 7 reserved 13 allocated 
+11 5 reserved 15 allocated 
+12 5 reserved 15 allocated 
+13 5 reserved 15 allocated 
+14 5 reserved 15 allocated 
+15 5 reserved 15 allocated 
+16 5 reserved 15 allocated 
+17 6 reserved 14 allocated 
+18 4 reserved 16 allocated 
+19 20 allocated 
+20 1 reserved 19 allocated 
+21 1 reserved 19 allocated 
+22 1 reserved 19 allocated 
+23 1 reserved 19 allocated 
+24 1 reserved 19 allocated 
+25 1 reserved 19 allocated 
+26 2 reserved 18 allocated 
+27 20 allocated 
+28 20 allocated 
+29 3 reserved 17 allocated 
+30 3 reserved 17 allocated 
+31 3 reserved 17 allocated 
+32 3 reserved 17 allocated 
+33 3 reserved 17 allocated 
+34 3 reserved 17 allocated 
+35 3 reserved 17 allocated 
+36 20 allocated 
+37 5 reserved 15 allocated 
+38 5 reserved 15 allocated 
+39 5 reserved 15 allocated 
+40 5 reserved 15 allocated 
+41 5 reserved 15 allocated 
+42 5 reserved 15 allocated 
+43 6 reserved 14 allocated 
+44 16 allocated 4 reserved 
+45 20 allocated 
+46 20 allocated 
+47 20 allocated 
+48 20 allocated 
+49 20 allocated 
+50 20 allocated 
+51 20 allocated 
+52 20 allocated 
+53 3 reserved 17 allocated 
+54 5 reserved 15 allocated 
+55 5 reserved 15 allocated 
+56 5 reserved 15 allocated 
+57 5 reserved 15 allocated 
+58 5 reserved 15 allocated 
+59 5 reserved 15 allocated 
+60 5 reserved 15 allocated 
+61 20 allocated 
+62 20 allocated 
+63 20 allocated 
+64 20 allocated 
+65 20 allocated 
+66 20 allocated 
+67 20 allocated 
+68 20 allocated 
+69 20 allocated 
+70 20 allocated 
+71 20 allocated 
+72 20 allocated 
+73 20 allocated 
+74 20 allocated 
+75 20 allocated 
+76 20 allocated 
+77 20 allocated 
+78 17 allocated 3 reserved 
+79 3 reserved 17 allocated 
+80 3 reserved 17 allocated 
+81 3 reserved 17 allocated 
+82 3 reserved 17 allocated 
+83 3 reserved 17 allocated 
+84 3 reserved 17 allocated 
+85 3 reserved 17 allocated 
+86 20 allocated 
+87 4 reserved 16 allocated 
+88 4 reserved 16 allocated 
+89 4 reserved 16 allocated 
+90 4 reserved 16 allocated 
+91 4 reserved 16 allocated 
+92 4 reserved 16 allocated 
+93 4 reserved 16 allocated 
+94 4 reserved 16 allocated 
+95 20 allocated 
+96 20 allocated 
+97 20 allocated 
+98 20 allocated 
+99 20 allocated 
+100 20 allocated 
+101 20 allocated 
+102 20 allocated 
+103 17 allocated 3 reserved 
+104 15 allocated 5 reserved 
+105 5 reserved 15 allocated 
+106 5 reserved 15 allocated 
+107 5 reserved 15 allocated 
+108 5 reserved 15 allocated 
+109 5 reserved 15 allocated 
+110 5 reserved 15 allocated 
+111 5 reserved 15 allocated 
+112 3 reserved 17 allocated 
+113 20 allocated 
+114 20 allocated 
+115 20 allocated 
+116 20 allocated 
+117 20 allocated 
+118 20 allocated 
+119 20 allocated 
+120 16 allocated 4 reserved 
+121 7 reserved 13 allocated 
+122 20 allocated 
+123 20 allocated 
+124 20 allocated 
+125 20 allocated 
+126 20 allocated 
+127 20 allocated 
+128 20 allocated 
+129 17 allocated 3 reserved 
+130 15 allocated 5 reserved 
+131 5 reserved 15 allocated 
+132 5 reserved 15 allocated 
+133 5 reserved 15 allocated 
+134 5 reserved 15 allocated 
+135 5 reserved 15 allocated 
+136 5 reserved 15 allocated 
+137 5 reserved 15 allocated 
+138 2 reserved 18 allocated 
+139 20 allocated 
+140 20 allocated 
+141 20 allocated 
+142 20 allocated 
+143 20 allocated 
+144 20 allocated 
+145 20 allocated 
+146 20 allocated 
+147 20 allocated 
+148 20 allocated 
+149 20 allocated 
+150 20 allocated 
+151 20 allocated 
+152 20 allocated 
+153 20 allocated 
+154 20 allocated 
+155 1 reserved 19 allocated 
+156 19 allocated 1 reserved 
+157 20 allocated 
+158 20 allocated 
+159 20 allocated 
+160 20 allocated 
+161 20 allocated 
+162 20 allocated 
+163 20 allocated 
+164 16 allocated 4 reserved 
+165 20 allocated 
+166 20 allocated 
+167 20 allocated 
+168 20 allocated 
+169 20 allocated 
+170 20 allocated 
+171 20 allocated 
+172 20 allocated 
+173 20 allocated 
+174 1 reserved 19 allocated 
+175 1 reserved 19 allocated 
+176 1 reserved 19 allocated 
+177 1 reserved 19 allocated 
+178 1 reserved 19 allocated 
+179 1 reserved 19 allocated 
+180 1 reserved 19 allocated 
+181 14 allocated 6 reserved 
+182 20 allocated 
+183 20 allocated 
+184 20 allocated 
+185 20 allocated 
+186 20 allocated 
+187 20 allocated 
+188 20 allocated 
+189 19 allocated 1 reserved 
+190 12 allocated 8 reserved 
+191 20 allocated 
+192 20 allocated 
+193 20 allocated 
+194 20 allocated 
+195 20 allocated 
+196 20 allocated 
+197 20 allocated 
+198 11 allocated 9 reserved 
+199 20 allocated 
+200 20 allocated 
+201 20 allocated 
+202 20 allocated 
+203 20 allocated 
+204 20 allocated 
+205 20 allocated 
+206 20 allocated 
+207 2 reserved 18 allocated 
+208 18 allocated 2 reserved 
+209 20 allocated 
+210 20 allocated 
+211 20 allocated 
+212 20 allocated 
+213 20 allocated 
+214 20 allocated 
+215 20 allocated 
+216 3 reserved 17 allocated 
+217 1 reserved 19 allocated 
+218 3 reserved 17 allocated 
+219 3 reserved 17 allocated 
+220 3 reserved 17 allocated 
+221 3 reserved 17 allocated 
+222 3 reserved 17 allocated 
+223 3 reserved 17 allocated 
+224 20 allocated 
+225 20 allocated 
+226 20 allocated 
+227 20 allocated 
+228 20 allocated 
+229 20 allocated 
+230 20 allocated 
+231 20 allocated 
+232 20 allocated 
+233 5 reserved 15 allocated 
+234 5 reserved 15 allocated 
+235 20 allocated 
+236 20 allocated 
+237 20 allocated 
+238 20 allocated 
+239 20 allocated 
+240 20 allocated 
+241 3 reserved 17 allocated 
+242 2 reserved 18 allocated 
+243 20 allocated 
+244 20 allocated 
+245 20 allocated 
+246 20 allocated 
+247 20 allocated 
+248 20 allocated 
+249 20 allocated 
+250 20 allocated 
+251 20 allocated 
+252 1 reserved 19 allocated 
+253 1 reserved 19 allocated 
+254 1 reserved 19 allocated 
+255 1 reserved 19 allocated 
+256 1 reserved 19 allocated 
+257 1 reserved 19 allocated 
+258 1 reserved 19 allocated 
+259 1 reserved 19 allocated 
+260 15 allocated 5 reserved 
+261 5 reserved 15 allocated 
+262 5 reserved 15 allocated 
+263 5 reserved 15 allocated 
+264 5 reserved 15 allocated 
+265 5 reserved 15 allocated 
+266 5 reserved 15 allocated 
+267 5 reserved 15 allocated 
+268 5 reserved 15 allocated 
+269 20 allocated 
+270 20 allocated 
+271 20 allocated 
+272 20 allocated 
+273 20 allocated 
+274 20 allocated 
+275 20 allocated 
+276 20 allocated 
+277 17 allocated 3 reserved 
+278 20 allocated 
+279 20 allocated 
+280 20 allocated 
+281 20 allocated 
+282 20 allocated 
+283 20 allocated 
+284 20 allocated 
+285 20 allocated 
+286 17 allocated 3 reserved 
+287 20 allocated 
+288 20 allocated 
+289 20 allocated 
+290 20 allocated 
+291 20 allocated 
+292 20 allocated 
+293 20 allocated 
+294 20 allocated 
+295 17 allocated 3 reserved 
+296 2 reserved 18 allocated 
+297 2 reserved 18 allocated 
+298 2 reserved 18 allocated 
+299 2 reserved 18 allocated 
+300 2 reserved 18 allocated 
+301 2 reserved 18 allocated 
+302 2 reserved 18 allocated 
+303 1 reserved 19 allocated 
+304 20 allocated 
+305 1 reserved 19 allocated 
+306 1 reserved 19 allocated 
+307 1 reserved 19 allocated 
+308 1 reserved 19 allocated 
+309 1 reserved 19 allocated 
+310 1 reserved 19 allocated 
+311 2 reserved 18 allocated 
+312 2 reserved 18 allocated 
+313 2 reserved 18 allocated 
+314 2 reserved 18 allocated 
+315 2 reserved 18 allocated 
+316 2 reserved 18 allocated 
+317 2 reserved 18 allocated 
+318 2 reserved 18 allocated 
+319 2 reserved 18 allocated 
+320 5 reserved 15 allocated 
+321 15 allocated 5 reserved 
+322 3 reserved 17 allocated 
+323 3 reserved 17 allocated 
+324 3 reserved 17 allocated 
+325 3 reserved 17 allocated 
+326 3 reserved 17 allocated 
+327 3 reserved 17 allocated 
+328 2 reserved 18 allocated 
+329 3 reserved 17 allocated 
+330 16 allocated 4 reserved 
+331 4 reserved 16 allocated 
+332 4 reserved 16 allocated 
+333 4 reserved 16 allocated 
+334 4 reserved 16 allocated 
+335 4 reserved 16 allocated 
+336 2 reserved 18 allocated 
+337 13 allocated 7 reserved 
+338 7 reserved 13 allocated 
+339 20 allocated 
+340 20 allocated 
+341 20 allocated 
+342 20 allocated 
+343 20 allocated 
+344 19 allocated 1 reserved 
+345 1 reserved 19 allocated 
+346 1 reserved 19 allocated 
+347 3 reserved 17 allocated 
+348 20 allocated 
+349 20 allocated 
+350 20 allocated 
+351 20 allocated 
+352 20 allocated 
+353 7 reserved 13 allocated 
+354 7 reserved 13 allocated 
+355 5 reserved 15 allocated 
+356 1 reserved 19 allocated 
+357 1 reserved 19 allocated 
+358 1 reserved 19 allocated 
+359 1 reserved 19 allocated 
+360 1 reserved 19 allocated 
+361 1 reserved 19 allocated 
+362 1 reserved 19 allocated 
+363 1 reserved 19 allocated 
+364 20 allocated 
+365 20 allocated 
+366 20 allocated 
+367 20 allocated 
+368 20 allocated 
+369 20 allocated 
+370 20 allocated 
+371 20 allocated 
+372 3 reserved 17 allocated 
+373 20 allocated 
+374 20 allocated 
+375 20 allocated 
+376 20 allocated 
+377 20 allocated 
+378 20 allocated 
+379 20 allocated 
+380 15 allocated 5 reserved 
+381 1 reserved 19 allocated 
+382 20 allocated 
+383 20 allocated 
+384 20 allocated 
+385 20 allocated 
+386 20 allocated 
+387 20 allocated 
+388 20 allocated 
+389 19 allocated 1 reserved 
+390 16 allocated 4 reserved 
+391 20 allocated 
+392 20 allocated 
+393 20 allocated 
+394 20 allocated 
+395 20 allocated 
+396 20 allocated 
+397 20 allocated 
+398 17 allocated 3 reserved 
+399 1 reserved 19 allocated 
+400 1 reserved 19 allocated 
+401 1 reserved 19 allocated 
+402 1 reserved 19 allocated 
+403 1 reserved 19 allocated 
+404 1 reserved 19 allocated 
+405 1 reserved 19 allocated 
+406 1 reserved 19 allocated 
+407 20 allocated 
+408 2 reserved 18 allocated 
+409 2 reserved 18 allocated 
+410 2 reserved 18 allocated 
+411 2 reserved 18 allocated 
+412 2 reserved 18 allocated 
+413 2 reserved 18 allocated 
+414 2 reserved 18 allocated 
+415 2 reserved 18 allocated 
+416 20 allocated 
+417 1 reserved 19 allocated 
+418 1 reserved 19 allocated 
+419 1 reserved 19 allocated 
+420 1 reserved 19 allocated 
+421 1 reserved 19 allocated 
+422 1 reserved 19 allocated 
+423 1 reserved 19 allocated 
+424 1 reserved 19 allocated 
+425 20 allocated 
+426 20 allocated 
+427 20 allocated 
+428 20 allocated 
+429 20 allocated 
+430 20 allocated 
+431 20 allocated 
+432 20 allocated 
+433 9 reserved 11 allocated 
+434 6 reserved 14 allocated 
+435 6 reserved 14 allocated 
+436 6 reserved 14 allocated 
+437 6 reserved 14 allocated 
+438 6 reserved 14 allocated 
+439 6 reserved 14 allocated 
+440 6 reserved 14 allocated 
+441 6 reserved 14 allocated 
+442 6 reserved 14 allocated 
+443 2 reserved 18 allocated 
+444 2 reserved 18 allocated 
+445 2 reserved 18 allocated 
+446 2 reserved 18 allocated 
+447 2 reserved 18 allocated 
+448 2 reserved 18 allocated 
+449 2 reserved 18 allocated 
+450 2 reserved 18 allocated 
+451 1 reserved 19 allocated 
+452 1 reserved 19 allocated 
+453 1 reserved 19 allocated 
+454 1 reserved 19 allocated 
+455 1 reserved 19 allocated 
+456 1 reserved 19 allocated 
+457 1 reserved 19 allocated 
+458 1 reserved 19 allocated 
+459 18 allocated 2 reserved 
+460 6 reserved 14 allocated 
+461 6 reserved 14 allocated 
+462 6 reserved 14 allocated 
+463 6 reserved 14 allocated 
+464 6 reserved 14 allocated 
+465 6 reserved 14 allocated 
+466 6 reserved 14 allocated 
+467 6 reserved 14 allocated 
+468 20 allocated 
+469 20 allocated 
+470 20 allocated 
+471 20 allocated 
+472 20 allocated 
+473 20 allocated 
+474 20 allocated 
+475 20 allocated 
+476 13 allocated 7 reserved 
+477 1 reserved 19 allocated 
+478 1 reserved 19 allocated 
+479 1 reserved 19 allocated 
+480 1 reserved 19 allocated 
+481 1 reserved 19 allocated 
+482 1 reserved 19 allocated 
+483 1 reserved 19 allocated 
+484 1 reserved 19 allocated 
+485 3 reserved 17 allocated 
+486 20 allocated 
+487 20 allocated 
+488 20 allocated 
+489 20 allocated 
+490 20 allocated 
+491 20 allocated 
+492 20 allocated 
+493 20 allocated 
+494 20 allocated 
+495 20 allocated 
+496 20 allocated 
+497 20 allocated 
+498 20 allocated 
+499 20 allocated 
+500 20 allocated 
+501 20 allocated 
+502 6 reserved 14 allocated 
+503 2 reserved 18 allocated 
+504 2 reserved 18 allocated 
+505 2 reserved 18 allocated 
+506 2 reserved 18 allocated 
+507 2 reserved 18 allocated 
+508 2 reserved 18 allocated 
+509 2 reserved 18 allocated 
+510 2 reserved 18 allocated 
+511 20 allocated 
+512 20 allocated 
+513 20 allocated 
+514 20 allocated 
+515 20 allocated 
+516 20 allocated 
+517 20 allocated 
+518 20 allocated 
+519 20 allocated 
+520 6 reserved 14 allocated 
+521 5 reserved 15 allocated 
+522 5 reserved 15 allocated 
+523 5 reserved 15 allocated 
+524 5 reserved 15 allocated 
+525 5 reserved 15 allocated 
+526 5 reserved 15 allocated 
+527 5 reserved 15 allocated 
+528 20 allocated 
+529 1 reserved 19 allocated 
+530 1 reserved 19 allocated 
+531 1 reserved 19 allocated 
+532 1 reserved 19 allocated 
+533 1 reserved 19 allocated 
+534 1 reserved 19 allocated 
+535 1 reserved 19 allocated 
+536 1 reserved 19 allocated 
+537 20 allocated 
+538 20 allocated 
+539 20 allocated 
+540 20 allocated 
+541 20 allocated 
+542 20 allocated 
+543 20 allocated 
+544 20 allocated 
+545 1 reserved 19 allocated 
+546 2 reserved 18 allocated 
+547 2 reserved 18 allocated 
+548 2 reserved 18 allocated 
+549 2 reserved 18 allocated 
+550 2 reserved 18 allocated 
+551 2 reserved 18 allocated 
+552 2 reserved 18 allocated 
+553 2 reserved 18 allocated 
+554 1 reserved 19 allocated 
+555 1 reserved 19 allocated 
+556 1 reserved 19 allocated 
+557 1 reserved 19 allocated 
+558 1 reserved 19 allocated 
+559 1 reserved 19 allocated 
+560 1 reserved 19 allocated 
+561 1 reserved 19 allocated 
+562 17 allocated 3 reserved 
+563 20 allocated 
+564 20 allocated 
+565 20 allocated 
+566 20 allocated 
+567 20 allocated 
+568 20 allocated 
+569 20 allocated 
+570 20 allocated 
+571 20 allocated 
+572 20 allocated 
+573 20 allocated 
+574 20 allocated 
+575 20 allocated 
+576 20 allocated 
+577 20 allocated 
+578 20 allocated 
+579 1 reserved 19 allocated 
+580 1 reserved 19 allocated 
+581 2 reserved 18 allocated 
+582 2 reserved 18 allocated 
+583 2 reserved 18 allocated 
+584 2 reserved 18 allocated 
+585 2 reserved 18 allocated 
+586 2 reserved 18 allocated 
+587 19 allocated 1 reserved 
+588 1 reserved 19 allocated 
+589 6 reserved 14 allocated 
+590 6 reserved 14 allocated 
+591 6 reserved 14 allocated 
+592 6 reserved 14 allocated 
+593 6 reserved 14 allocated 
+594 6 reserved 14 allocated 
+595 6 reserved 14 allocated 
+596 18 allocated 2 reserved 
+597 19 allocated 1 reserved 
+598 1 reserved 19 allocated 
+599 1 reserved 19 allocated 
+600 1 reserved 19 allocated 
+601 1 reserved 19 allocated 
+602 1 reserved 19 allocated 
+603 1 reserved 19 allocated 
+604 1 reserved 19 allocated 
+605 20 allocated 
+606 20 allocated 
+607 20 allocated 
+608 20 allocated 
+609 20 allocated 
+610 20 allocated 
+611 20 allocated 
+612 20 allocated 
+613 15 allocated 5 reserved 
+614 2 reserved 18 allocated 
+615 20 allocated 
+616 20 allocated 
+617 20 allocated 
+618 20 allocated 
+619 20 allocated 
+620 20 allocated 
+621 20 allocated 
+622 13 allocated 7 reserved 
+623 17 allocated 3 reserved 
+624 3 reserved 17 allocated 
+625 3 reserved 17 allocated 
+626 3 reserved 17 allocated 
+627 3 reserved 17 allocated 
+628 3 reserved 17 allocated 
+629 3 reserved 17 allocated 
+630 3 reserved 17 allocated 
+631 1 reserved 19 allocated 
+632 1 reserved 19 allocated 
+633 1 reserved 19 allocated 
+634 1 reserved 19 allocated 
+635 1 reserved 19 allocated 
+636 1 reserved 19 allocated 
+637 1 reserved 19 allocated 
+638 1 reserved 19 allocated 
+639 1 reserved 19 allocated 
+640 1 reserved 19 allocated 
+641 1 reserved 19 allocated 
+642 1 reserved 19 allocated 
+643 1 reserved 19 allocated 
+644 1 reserved 19 allocated 
+645 1 reserved 19 allocated 
+646 1 reserved 19 allocated 
+647 1 reserved 19 allocated 
+648 17 allocated 3 reserved 
+649 20 allocated 
+650 20 allocated 
+651 20 allocated 
+652 20 allocated 
+653 20 allocated 
+654 20 allocated 
+655 20 allocated 
+656 20 allocated 
+657 2 reserved 18 allocated 
+658 20 allocated 
+659 20 allocated 
+660 20 allocated 
+661 20 allocated 
+662 20 allocated 
+663 20 allocated 
+664 20 allocated 
+665 2 reserved 18 allocated 
+666 18 allocated 2 reserved 
+667 2 reserved 18 allocated 
+668 2 reserved 18 allocated 
+669 2 reserved 18 allocated 
+670 2 reserved 18 allocated 
+671 2 reserved 18 allocated 
+672 2 reserved 18 allocated 
+673 16 allocated 4 reserved 
+674 4 reserved 16 allocated 
+675 3 reserved 17 allocated 
+676 3 reserved 17 allocated 
+677 3 reserved 17 allocated 
+678 3 reserved 17 allocated 
+679 3 reserved 17 allocated 
+680 3 reserved 17 allocated 
+681 17 allocated 3 reserved 
+682 2 reserved 18 allocated 
+683 20 allocated 
+684 20 allocated 
+685 20 allocated 
+686 20 allocated 
+687 20 allocated 
+688 20 allocated 
+689 20 allocated 
+690 2 reserved 18 allocated 
+691 2 reserved 18 allocated 
+692 3 reserved 17 allocated 
+693 3 reserved 17 allocated 
+694 3 reserved 17 allocated 
+695 3 reserved 17 allocated 
+696 3 reserved 17 allocated 
+697 3 reserved 17 allocated 
+698 3 reserved 17 allocated 
+699 1 reserved 19 allocated 
+700 14 allocated 6 reserved 
+701 5 reserved 15 allocated 
+702 5 reserved 15 allocated 
+703 5 reserved 15 allocated 
+704 5 reserved 15 allocated 
+705 5 reserved 15 allocated 
+706 5 reserved 15 allocated 
+707 5 reserved 15 allocated 
+708 4 reserved 16 allocated 
+709 4 reserved 16 allocated 
+710 2 reserved 18 allocated 
+711 2 reserved 18 allocated 
+712 2 reserved 18 allocated 
+713 2 reserved 18 allocated 
+714 2 reserved 18 allocated 
+715 2 reserved 18 allocated 
+716 2 reserved 18 allocated 
+717 4 reserved 16 allocated 
+718 5 reserved 15 allocated 
+719 5 reserved 15 allocated 
+720 5 reserved 15 allocated 
+721 5 reserved 15 allocated 
+722 5 reserved 15 allocated 
+723 5 reserved 15 allocated 
+724 5 reserved 15 allocated 
+725 5 reserved 15 allocated 
+726 1 reserved 19 allocated 
+727 1 reserved 19 allocated 
+728 1 reserved 19 allocated 
+729 1 reserved 19 allocated 
+730 1 reserved 19 allocated 
+731 1 reserved 19 allocated 
+732 1 reserved 19 allocated 
+733 1 reserved 19 allocated 
+734 6 reserved 14 allocated 
+735 5 reserved 15 allocated 
+736 5 reserved 15 allocated 
+737 5 reserved 15 allocated 
+738 5 reserved 15 allocated 
+739 5 reserved 15 allocated 
+740 5 reserved 15 allocated 
+741 5 reserved 15 allocated 
+742 5 reserved 15 allocated 
+743 15 allocated 5 reserved 
+744 20 allocated 
+745 20 allocated 
+746 20 allocated 
+747 20 allocated 
+748 20 allocated 
+749 20 allocated 
+750 20 allocated 
+751 20 allocated 
+752 5 reserved 15 allocated 
+753 20 allocated 
+754 20 allocated 
+755 20 allocated 
+756 20 allocated 
+757 20 allocated 
+758 20 allocated 
+759 20 allocated 
+760 20 allocated 
+761 19 allocated 1 reserved 
+762 1 reserved 19 allocated 
+763 1 reserved 19 allocated 
+764 1 reserved 19 allocated 
+765 1 reserved 19 allocated 
+766 1 reserved 19 allocated 
+767 1 reserved 19 allocated 
+768 1 reserved 19 allocated 
+769 7 reserved 13 allocated 
+770 20 allocated 
+771 20 allocated 
+772 20 allocated 
+773 20 allocated 
+774 20 allocated 
+775 20 allocated 
+776 20 allocated 
+777 20 allocated 
+778 20 allocated 
+779 20 allocated 
+780 20 allocated 
+781 20 allocated 
+782 20 allocated 
+783 20 allocated 
+784 20 allocated 
+785 20 allocated 
+786 20 allocated 
+787 2 reserved 18 allocated 
+788 2 reserved 18 allocated 
+789 2 reserved 18 allocated 
+790 2 reserved 18 allocated 
+791 2 reserved 18 allocated 
+792 2 reserved 18 allocated 
+793 2 reserved 18 allocated 
+794 2 reserved 18 allocated 
+795 20 allocated 
+796 19 allocated 1 reserved 
+797 20 allocated 
+798 20 allocated 
+799 20 allocated 
+800 20 allocated 
+801 20 allocated 
+802 20 allocated 
+803 4 reserved 16 allocated 
+804 20 allocated 
+805 1 reserved 19 allocated 
+806 1 reserved 19 allocated 
+807 1 reserved 19 allocated 
+808 1 reserved 19 allocated 
+809 1 reserved 19 allocated 
+810 1 reserved 19 allocated 
+811 1 reserved 19 allocated 
+812 20 allocated 
+813 20 allocated 
+814 20 allocated 
+815 20 allocated 
+816 20 allocated 
+817 20 allocated 
+818 20 allocated 
+819 20 allocated 
+820 4 reserved 16 allocated 
+821 15 allocated 5 reserved 
+822 1 reserved 19 allocated 
+823 1 reserved 19 allocated 
+824 1 reserved 19 allocated 
+825 1 reserved 19 allocated 
+826 1 reserved 19 allocated 
+827 1 reserved 19 allocated 
+828 1 reserved 19 allocated 
+829 7 reserved 13 allocated 
+830 2 reserved 18 allocated 
+831 2 reserved 18 allocated 
+832 2 reserved 18 allocated 
+833 2 reserved 18 allocated 
+834 2 reserved 18 allocated 
+835 2 reserved 18 allocated 
+836 2 reserved 18 allocated 
+837 2 reserved 18 allocated 
+838 12 allocated 8 reserved 
+839 20 allocated 
+840 20 allocated 
+841 20 allocated 
+842 20 allocated 
+843 20 allocated 
+844 20 allocated 
+845 20 allocated 
+846 20 allocated 
+847 12 allocated 8 reserved 
+848 20 allocated 
+849 20 allocated 
+850 20 allocated 
+851 20 allocated 
+852 20 allocated 
+853 20 allocated 
+854 20 allocated 
+855 18 allocated 2 reserved 
+856 20 allocated 
+857 20 allocated 
+858 20 allocated 
+859 20 allocated 
+860 20 allocated 
+861 20 allocated 
+862 20 allocated 
+863 20 allocated 
+864 20 allocated 
+865 15 allocated 5 reserved 
+866 2 reserved 18 allocated 
+867 2 reserved 18 allocated 
+868 2 reserved 18 allocated 
+869 2 reserved 18 allocated 
+870 2 reserved 18 allocated 
+871 2 reserved 18 allocated 
+872 2 reserved 18 allocated 
+873 20 allocated 
+874 16 allocated 4 reserved 
+875 4 reserved 16 allocated 
+876 4 reserved 16 allocated 
+877 4 reserved 16 allocated 
+878 4 reserved 16 allocated 
+879 4 reserved 16 allocated 
+880 4 reserved 16 allocated 
+881 3 reserved 17 allocated 
+882 3 reserved 17 allocated 
+883 3 reserved 17 allocated 
+884 3 reserved 17 allocated 
+885 3 reserved 17 allocated 
+886 3 reserved 17 allocated 
+887 3 reserved 17 allocated 
+888 3 reserved 17 allocated 
+889 15 allocated 5 reserved 
+890 2 reserved 18 allocated 
+891 2 reserved 18 allocated 
+892 2 reserved 18 allocated 
+893 2 reserved 18 allocated 
+894 2 reserved 18 allocated 
+895 2 reserved 18 allocated 
+896 2 reserved 18 allocated 
+897 2 reserved 18 allocated 
+898 20 allocated 
+899 20 allocated 
+900 18 allocated 2 reserved 
+901 2 reserved 18 allocated 
+902 2 reserved 18 allocated 
+903 2 reserved 18 allocated 
+904 2 reserved 18 allocated 
+905 2 reserved 18 allocated 
+906 20 allocated 
+907 2 reserved 18 allocated 
+908 2 reserved 18 allocated 
+909 3 reserved 17 allocated 
+910 3 reserved 17 allocated 
+911 3 reserved 17 allocated 
+912 3 reserved 17 allocated 
+913 3 reserved 17 allocated 
+914 20 allocated 
+915 2 reserved 18 allocated 
+916 2 reserved 18 allocated 
+917 8 reserved 12 allocated 
+918 8 reserved 12 allocated 
+919 8 reserved 12 allocated 
+920 8 reserved 12 allocated 
+921 8 reserved 12 allocated 
+922 8 reserved 12 allocated 
+923 20 allocated 
+924 20 allocated 
+925 20 allocated 
+926 20 allocated 
+927 20 allocated 
+928 20 allocated 
+929 20 allocated 
+930 20 allocated 
+931 20 allocated 
+932 1 reserved 19 allocated 
+933 1 reserved 19 allocated 
+934 1 reserved 19 allocated 
+935 1 reserved 19 allocated 
+936 1 reserved 19 allocated 
+937 1 reserved 19 allocated 
+938 1 reserved 19 allocated 
+939 17 allocated 3 reserved 
+940 14 allocated 6 reserved 
+941 20 allocated 
+942 20 allocated 
+943 20 allocated 
+944 20 allocated 
+945 20 allocated 
+946 20 allocated 
+947 20 allocated 
+948 20 allocated 
+949 4 reserved 16 allocated 
+950 4 reserved 16 allocated 
+951 4 reserved 16 allocated 
+952 4 reserved 16 allocated 
+953 4 reserved 16 allocated 
+954 4 reserved 16 allocated 
+955 4 reserved 16 allocated 
+956 6 reserved 14 allocated 
+957 20 allocated 
+958 20 allocated 
+959 20 allocated 
+960 20 allocated 
+961 20 allocated 
+962 20 allocated 
+963 20 allocated 
+964 20 allocated 
+965 19 allocated 1 reserved 
+966 1 reserved 19 allocated 
+967 1 reserved 19 allocated 
+968 1 reserved 19 allocated 
+969 1 reserved 19 allocated 
+970 1 reserved 19 allocated 
+971 1 reserved 19 allocated 
+972 1 reserved 19 allocated 
+973 1 reserved 19 allocated 
+974 15 allocated 5 reserved 
+975 20 allocated 
+976 20 allocated 
+977 20 allocated 
+978 20 allocated 
+979 20 allocated 
+980 20 allocated 
+981 20 allocated 
+982 3 reserved 17 allocated 
+983 20 allocated 
+984 20 allocated 
+985 20 allocated 
+986 20 allocated 
+987 20 allocated 
+988 20 allocated 
+989 20 allocated 
+990 20 allocated 
+991 20 allocated 
+992 1 reserved 19 allocated 
+993 1 reserved 19 allocated 
+994 1 reserved 19 allocated 
+995 1 reserved 19 allocated 
+996 1 reserved 19 allocated 
+997 1 reserved 19 allocated 
+998 1 reserved 19 allocated 
+999 1 reserved 19 allocated 
+1000 2 reserved 18 allocated 
+1001 2 reserved 18 allocated 
+1002 2 reserved 18 allocated 
+1003 2 reserved 18 allocated 
+1004 2 reserved 18 allocated 
+1005 2 reserved 18 allocated 
+1006 2 reserved 18 allocated 
+1007 2 reserved 18 allocated 
+1008 20 allocated 
+1009 20 allocated 
+1010 20 allocated 
+1011 20 allocated 
+1012 20 allocated 
+1013 20 allocated 
+1014 20 allocated 
+1015 20 allocated 
+1016 17 allocated 3 reserved 
+1017 18 allocated 2 reserved 
+1018 18 allocated 2 reserved 
+1019 18 allocated 2 reserved 
+1020 18 allocated 2 reserved 
+1021 18 allocated 2 reserved 
+1022 18 allocated 2 reserved 
+1023 18 allocated 2 reserved 
+1024 18 allocated 2 reserved 
+1025 17 allocated 3 reserved 
+1026 2 reserved 18 allocated 
+1027 2 reserved 18 allocated 
+1028 2 reserved 18 allocated 
+1029 2 reserved 18 allocated 
+1030 2 reserved 18 allocated 
+1031 2 reserved 18 allocated 
+1032 2 reserved 18 allocated 
+1033 3 reserved 17 allocated 
+1034 17 allocated 3 reserved 
+1035 17 allocated 3 reserved 
+1036 17 allocated 3 reserved 
+1037 17 allocated 3 reserved 
+1038 17 allocated 3 reserved 
+1039 17 allocated 3 reserved 
+1040 17 allocated 3 reserved 
+1041 17 allocated 3 reserved 
+1042 4 reserved 16 allocated 
+1043 15 allocated 5 reserved 
+1044 15 allocated 5 reserved 
+1045 15 allocated 5 reserved 
+1046 15 allocated 5 reserved 
+1047 15 allocated 5 reserved 
+1048 15 allocated 5 reserved 
+1049 15 allocated 5 reserved 
+1050 15 allocated 5 reserved 
+1051 6 allocated 14 reserved 
+1052 20 reserved 

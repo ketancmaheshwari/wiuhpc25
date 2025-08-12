@@ -1,0 +1,8 @@
+20 users 20 jobs
+high qos preempts
+--requeue enabled
+preempted jobs get requeued and not canceled
+max nodes 10
+max wall time 10 mins
+possibility of timeouts
+

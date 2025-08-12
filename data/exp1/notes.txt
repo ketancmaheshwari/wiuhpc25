@@ -1,0 +1,9 @@
+ squeue |wc -l
+1778
+First pilot.
+users: 20
+jobs/user: 100
+node range: 1-20
+walltime range: 
+timeout possible?:
+cancelled jobs?:

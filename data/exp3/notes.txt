@@ -1,0 +1,10 @@
+5-10% high qos (urgent) jobs
+preemption enabled
+no requeue
+users: 20
+jobs/user: 20
+node range: 1-10
+walltime range: 3-15 
+timeout possible?: yes
+
+

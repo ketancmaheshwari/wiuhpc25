@@ -1,0 +1,7 @@
+20 users 20 nodes
+10 max nodes / user 
+10 mins max walltime
+high qos jobs 5-10%
+high qos no preemption, high priority score to 10,000
+no requeue coz no preemption
+

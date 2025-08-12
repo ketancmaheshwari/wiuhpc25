@@ -1,0 +1,10 @@
+20 users 
+20 jobs/u
+fixed wall time of 10min
+max nodes per job 1-10
+jobs completion time 10-20% of wall time
+preemption enabled for high qos
+requeue enabled
+new jobs arrive relatively quickly between 15-60 seconds
+timeout not possibile 
+
